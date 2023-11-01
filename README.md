@@ -1,6 +1,6 @@
 # Modelo-Relacional-referente-ao-estudo-de-caso-de-uma-faculdade
 
-![Modelo Relacional](https://uploaddeimagens.com.br/imagens/VfeMHM0)
+![Modelo Relacional - Clique para ver](https://uploaddeimagens.com.br/imagens/AJfw3i0)
 
 Com base no Modelo Relacional dado e utilizando a Structured Query Language (SQL), no MySQL Workbench, implemente o que se pede.
 OBS.: O código para povoar o banco de dados já veio pronto
